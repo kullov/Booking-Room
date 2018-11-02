@@ -5,7 +5,7 @@
 >Mục đích của chúng tôi là cung cấp cho người sử dụng một nền tảng trực tuyến để sử dụng một cách đơn giản, tiện lợi, không rắc rối phức tạp. Không cần phải đăng ký và ai cũng có thể tìm kiếm các thông tin liên quan về phòng trọ.
 
 ### Wiki
-[Booking-Room.Wiki]
+[Booking-Room.Wiki](https://github.com/thuyxd/Booking-Room/wiki/BookingRoom.wiki)
 
 ### Để xây dựng website này, nhóm dự định thực hiện các công việc sau:
 * Sprint 1: Xây dựng giao diện của website dựa trên:
