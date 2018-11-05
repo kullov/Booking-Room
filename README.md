@@ -10,7 +10,7 @@
 3. Đỗ Thị Thu Trà
 
 ### Wiki
-[Booking-Room.Wiki](https://github.com/thuyxd/Booking-Room/wiki/BookingRoom.wiki)
+[Booking-Room.Wiki](https://github.com/thuyxd/Booking-Room/wiki)
 
 ### Để xây dựng website này, nhóm dự định thực hiện các công việc sau:
 * Sprint 1: Xây dựng giao diện của website dựa trên:
