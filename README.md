@@ -5,9 +5,9 @@
 >Mục đích của chúng tôi là cung cấp cho người sử dụng một nền tảng trực tuyến để sử dụng một cách đơn giản, tiện lợi, không rắc rối phức tạp. Không cần phải đăng ký và ai cũng có thể tìm kiếm các thông tin liên quan về phòng trọ.
 
 ### Thành viên
->Nguyễn Thị Thủy
->Trần Thanh Nga
->Đỗ Thị Thu Trà
+>Nguyễn Thị Thủy.
+>Trần Thanh Nga.
+>Đỗ Thị Thu Trà.
 
 ### Wiki
 [Booking-Room.Wiki](https://github.com/thuyxd/Booking-Room/wiki/BookingRoom.wiki)
